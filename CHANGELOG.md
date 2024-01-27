@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Jan 27 2024)
+
+#### ⚠️ Pushed to `main`
+
+- feature(front) add front ([@axeldeveloper](https://github.com/axeldeveloper))
+
+#### Authors: 1
+
+- Axel Alexander ([@axeldeveloper](https://github.com/axeldeveloper))
+
+---
+
 # v0.0.2 (Fri Jan 26 2024)
 
 #### ⚠️ Pushed to `main`
